@@ -16,7 +16,7 @@ Predicting stock price movements using various time series forecasting technique
 
 ### 2. [Ethereum price prediction](https://github.com/JoaoBrasOliveira/ethereum)
 Used time-series techniques to predict in and out-of-sample prices for the cryptocurrency Ethereum customer segments for a retail dataset. Key skills: clustering, dimensionality reduction, data preprocessing.
-![Customer Segments](images/zoltan-tasi-uNXmhzcQjxg-unsplash.jpg)
+<img src="images/zoltan-tasi-uNXmhzcQjxg-unsplash.jpg" alt="Ethereum Price Prediction" width="500" />
 
 ### 3. [Sentiment Analysis on Social Media](https://github.com/JoaoBrasOliveira/amazonreviews_sentiment_analysis)
 Applied natural language processing to analyze sentiment in reviews posted within Amazon´s marketplace using machine learning models. Tools used: NLTK, Scikit-learn.
