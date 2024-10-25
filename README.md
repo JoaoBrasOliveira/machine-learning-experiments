@@ -11,7 +11,7 @@ In here, you’ll find projects and analyses I’ve worked on, including my mast
 
 ## Projects
 
-### 1. [Master’s Thesis: Decoding the numbers and language behind financial statement fraud](https://github.com/JoaoBrasOliveira/masters_thesis)
+### 1. [Master’s Thesis: "Decoding the numbers and language behind financial statement fraud"](https://github.com/JoaoBrasOliveira/masters_thesis)
 Predicting stock price movements using various time series forecasting techniques. Techniques used include ARIMA, Prophet, and LSTM neural networks.
 
 ### 2. [Forecasting of the Prices of Ethereum](https://github.com/JoaoBrasOliveira/ethereum)
