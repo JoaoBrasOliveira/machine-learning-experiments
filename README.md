@@ -12,15 +12,15 @@ In here, you’ll find projects and analyses I’ve worked on, including my mast
 ## Projects
 
 ### 1. [Master’s Thesis: "Decoding the numbers and language behind financial statement fraud"](https://github.com/JoaoBrasOliveira/masters_thesis)
-Predicting stock price movements using various time series forecasting techniques. Techniques used include ARIMA, Prophet, and LSTM neural networks.
+
 
 <div align="center">
   <img src="images/Picture2.png" alt="Ethereum Price Prediction" width="400" height="300" />
 </div>
 
-### 2. [Forecasting of the Prices of Ethereum](https://github.com/JoaoBrasOliveira/ethereum)
-Used time-series techniques to predict in and out-of-sample prices for the cryptocurrency Ethereum customer segments for a retail dataset.
-Key skills: clustering, dimensionality reduction, data preprocessing.
+### 2. [Forecasting the Prices of Ethereum](https://github.com/JoaoBrasOliveira/ethereum)
+Used time-series techniques to predict in and out-of-sample prices for the cryptocurrency Ethereum price movements using various time series forecasting techniques. 
+Techniques used include ARIMA, Prophet, and LSTM and GRU neural networks.
 
 <div align="center">
   <img src="images/zoltan-tasi-uNXmhzcQjxg-unsplash.jpg" alt="Ethereum Price Prediction" width="400" height="300" />
