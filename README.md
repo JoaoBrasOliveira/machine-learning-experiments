@@ -1,6 +1,6 @@
-# Portfolio
+# João's Portfolio
 
-Welcome to my GitHub portfolio! I’m [João], an aspiring data scientist with a background in Accounting.
+Welcome to my GitHub portfolio! I’m João, an aspiring Data Scientist with a background in Accounting.
 
 In here, you’ll find projects and analyses I’ve worked on, including my master’s thesis about fraud detection. All the projects are open-source, and as such are available under the MIT License.
 
@@ -50,10 +50,3 @@ The project encompasses a variety of models, including Logistic Regression, XGBo
 **Environment:** A `requirements.txt` file is provided for setting up a consistent environment.
 
 **Documentation:** Each script is documented with clear instructions in the `README.md`, guiding through environment setup, script execution, and result interpretation.
-
-## Contribution Guidelines
-
-**Getting Started:**
-- Fork the repository.
-- Setup your environment with `requirements.txt`.
-- Familiarize yourself with the code and dataset.
