@@ -19,7 +19,7 @@ Used time-series techniques to predict in and out-of-sample prices for the crypt
 Key skills: clustering, dimensionality reduction, data preprocessing.
 
 <div align="center">
-  <img src="images/zoltan-tasi-uNXmhzcQjxg-unsplash.jpg" alt="Ethereum Price Prediction" width="500" />
+  <img src="images/zoltan-tasi-uNXmhzcQjxg-unsplash.jpg" alt="Ethereum Price Prediction" width="400" height="300" />
 </div>
 
 ### 3. [Sentiment Analysis on Social Media](https://github.com/JoaoBrasOliveira/amazonreviews_sentiment_analysis)
@@ -27,7 +27,7 @@ Applied natural language processing to analyze sentiment in reviews posted withi
 Tools used: NLTK, Scikit-learn.
 
 <div align="center">
-  <img src="images/mahdi-bafande-qgJ1rt7TeeY-unsplash.jpg" alt="Amazon Reviews Sentiment Analysis" width="500" />
+  <img src="images/mahdi-bafande-qgJ1rt7TeeY-unsplash.jpg" alt="Amazon Reviews Sentiment Analysis" width="400" height="300" />
 </div>
 
 # Master’s Thesis: Decoding the numbers and language behind financial statement fraud
