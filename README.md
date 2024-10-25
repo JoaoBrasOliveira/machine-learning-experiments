@@ -15,12 +15,14 @@ In here, you’ll find projects and analyses I’ve worked on, including my mast
 Predicting stock price movements using various time series forecasting techniques. Techniques used include ARIMA, Prophet, and LSTM neural networks.
 
 ### 2. [Ethereum price prediction](https://github.com/JoaoBrasOliveira/ethereum)
-Used time-series techniques to predict in and out-of-sample prices for the cryptocurrency Ethereum customer segments for a retail dataset. Key skills: clustering, dimensionality reduction, data preprocessing.
+Used time-series techniques to predict in and out-of-sample prices for the cryptocurrency Ethereum customer segments for a retail dataset.
+Key skills: clustering, dimensionality reduction, data preprocessing.
 <img src="images/zoltan-tasi-uNXmhzcQjxg-unsplash.jpg" alt="Ethereum Price Prediction" width="500" />
 
 ### 3. [Sentiment Analysis on Social Media](https://github.com/JoaoBrasOliveira/amazonreviews_sentiment_analysis)
-Applied natural language processing to analyze sentiment in reviews posted within Amazon´s marketplace using machine learning models. Tools used: NLTK, Scikit-learn.
-![Customer Segments](images/mahdi-bafande-qgJ1rt7TeeY-unsplash.jpg)
+Applied natural language processing to analyze sentiment in reviews posted within Amazon´s marketplace using machine learning models.
+Tools used: NLTK, Scikit-learn.
+<img src="images/mahdi-bafande-qgJ1rt7TeeY-unsplash.jpg" alt="Amazon Reviews Sentiment Analysis" width="500" />
 
 # Master’s Thesis: Decoding the numbers and language behind financial statement fraud
 
