@@ -19,7 +19,7 @@ Tags: `Large Language Models`, `Fraud detection`, `Financial statements`, `Secur
   <img src="images/Picture2.png" alt="Ethereum Price Prediction" width="400" height="300" />
 </div>
 
-### 2. [Forecasting the Prices of Ethereum](https://github.com/JoaoBrasOliveira/portfolio/tree/main/ethereum_prices)
+### 2. [Forecasting the Prices of Ethereum (ETH)](https://github.com/JoaoBrasOliveira/portfolio/tree/main/ethereum_prices)
 Used time-series techniques to predict in and out-of-sample prices for the cryptocurrency Ethereum price movements using various time series forecasting techniques.
 
 Techniques used include ARIMA, Prophet, and LSTM and GRU neural networks.
