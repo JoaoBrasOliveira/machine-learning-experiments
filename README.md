@@ -11,7 +11,7 @@ In here, you’ll find projects and analyses I’ve worked on, including my mast
 
 ## Projects
 
-### 1. [Master’s Thesis: "Decoding the numbers and language behind financial statement fraud"](https://github.com/JoaoBrasOliveira/masters_thesis)
+### 1. [Master’s Thesis: "Decoding the numbers and language behind financial statement fraud"](https://github.com/JoaoBrasOliveira/portfolio/tree/main/masters_thesis)
 
 
 <div align="center">
