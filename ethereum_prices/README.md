@@ -1,5 +1,4 @@
-# Master’s Thesis: "Decoding the numbers and language behind financial statement fraud"
-
+# Forecasting the prices of Ethereum (ETH)
 ## Project Overview
 
 **Introduction:** This project utilizes machine learning, deep learning, and Large Language Models (LLMs) to 
