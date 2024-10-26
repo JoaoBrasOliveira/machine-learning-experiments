@@ -20,8 +20,10 @@ Tags: `Large Language Models`, `Fraud detection`, `Financial statements`, `Secur
 </div>
 
 ### 2. [Forecasting the Prices of Ethereum](https://github.com/JoaoBrasOliveira/ethereum)
-Used time-series techniques to predict in and out-of-sample prices for the cryptocurrency Ethereum price movements using various time series forecasting techniques. 
+Used time-series techniques to predict in and out-of-sample prices for the cryptocurrency Ethereum price movements using various time series forecasting techniques.
+
 Techniques used include ARIMA, Prophet, and LSTM and GRU neural networks.
+
 Tags: `Deep Learning`, `Forecasting`, `Ethereum`, `Time-series`.
 
 <div align="center">
@@ -30,7 +32,9 @@ Tags: `Deep Learning`, `Forecasting`, `Ethereum`, `Time-series`.
 
 ### 3. [Sentiment Analysis of Amazon Reviews](https://github.com/JoaoBrasOliveira/amazonreviews_sentiment_analysis)
 Applied natural language processing to analyze sentiment in reviews posted within Amazon´s marketplace using machine learning models.
+
 Tools used: NLTK, Scikit-learn.
+
 Tags: `NLP`, `Sentiment analysis`, `Customer Reviews`, `Transformers`.
 
 <div align="center">
