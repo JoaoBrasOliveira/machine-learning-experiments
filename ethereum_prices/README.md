@@ -1,8 +1,5 @@
 # Forecasting the prices of Ethereum (ETH)
 ## Project Overview
-<div align="center">
-    <img src="../images/TimeSeries_Sarimax.png" alt="Time Series" width="600" />
-</div>
 
 **Introduction:** This project utilized a plethora of models to establish comparrisons between them for the Ethereum price prediction task.
 
