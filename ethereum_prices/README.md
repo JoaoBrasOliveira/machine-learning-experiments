@@ -7,6 +7,7 @@
 
 ### Resources
 <div align="center">
+  <p><strong>Click the image below to access the full report on Time-Series Analysis</strong></p>
   <a href="./TimeSeries_Ethereum_JoaoBrasOliveira.pdf">
     <img src="../images/TimeSeries.png" alt="Time Series" width="600" />
   </a>
