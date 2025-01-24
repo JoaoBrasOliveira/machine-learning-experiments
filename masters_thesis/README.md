@@ -32,6 +32,6 @@ As part of the data used is proprietary it is not possible to share the datasets
 
 ## To Reproduce
 
-**Codebase:** Complete code for data extraction, preprocessing, model training, and evaluation is available in this repository.
+**Codebase:** Code excerpts for data extraction, preprocessing, model training, and evaluation are available in this repository.
 
 **Documentation:** The thesis report provides very clear instructions on the steps followed and the code can guide along the main operations executed.
