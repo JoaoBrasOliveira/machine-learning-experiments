@@ -35,3 +35,10 @@ As part of the data used is proprietary it is not possible to share the datasets
 **Codebase:** Code excerpts for data extraction, preprocessing, model training, and evaluation are available in this repository.
 
 **Documentation:** The thesis report provides very clear instructions on the steps followed and the code can guide along the main operations executed.
+
+# Acknowledgements
+
+I would like to thank my supervisors for their guidance as "_There is no favorable wind for the sailor who doesn’t know where to go_" - Seneca:
+
+- [Prof. Anabela Ribeiro Costa](https://ciencia.iscte-iul.pt/authors/anabela-ribeiro-dias-da-costa/cv): Professor at ISCTE Business School, specializing in optimization and tree algorithms.
+- [Prof. Diana Aldea Mendes](https://ciencia.iscte-iul.pt/authors/diana-elisabeta-aldea-mendes/cv): Professor at ISCTE Business School, specializing in time-series analysis and and deep learning.
