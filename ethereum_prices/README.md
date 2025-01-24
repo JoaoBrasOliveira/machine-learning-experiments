@@ -7,13 +7,15 @@
 
 ### Resources
 <div align="center">
-  <img src="../images/TimeSeries.png" alt="Time Series" width="600" />
+  <a href="./TimeSeries_Ethereum_JoaoBrasOliveira.pdf">
+    <img src="../images/TimeSeries.png" alt="Time Series" width="600" />
+  </a>
   <p><a href="./TimeSeries_Ethereum_JoaoBrasOliveira.pdf"><strong>Time-Series Analysis</strong></a></p>
 </div>
 
 ## Dataset Description
 
-**Source:** The dataset used has Coinbase as source, is public, and was taken from the Federal Reserve Bank of Saint Louis (FRED). It is available at the following link: [https://fred.stlouisfed.org/series/CBETHUSD].
+**Source:** The dataset used has Coinbase as source, is public, and was taken from the Federal Reserve Bank of Saint Louis (FRED). It is available at the following link: [https://fred.stlouisfed.org/series/CBETHUSD]. Or available in the [data folder here](./data).
 
 **Structure:** The dataset contained the date and the daily price of the cryptocurrency Ethereum (as of 5 PM PST).
 
