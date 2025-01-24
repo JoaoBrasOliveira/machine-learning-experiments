@@ -10,7 +10,6 @@
   <a href="./TimeSeries_Ethereum_JoaoBrasOliveira.pdf">
     <img src="../images/TimeSeries.png" alt="Time Series" width="600" />
   </a>
-  <p><a href="./TimeSeries_Ethereum_JoaoBrasOliveira.pdf"><strong>Time-Series Analysis</strong></a></p>
 </div>
 
 ## Dataset Description
