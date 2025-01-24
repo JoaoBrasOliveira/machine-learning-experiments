@@ -33,6 +33,8 @@ Tags: `Deep Learning`, `Forecasting`, `Ethereum`, `Time-series`.
   <a href="https://github.com/JoaoBrasOliveira/portfolio/tree/main/ethereum_prices">
     <img src="images/zoltan-tasi-uNXmhzcQjxg-unsplash.jpg" alt="Ethereum Price Prediction" width="400" height="300" />
   </a>
+  <br>
+  <sub>Image Credit: Photo by <a href="https://unsplash.com/pt-br/@zoltantasi">Zoltan Tasi</a> on Unsplash</a></sub>
 </div>
 
 ### 3. [Sentiment Analysis of Amazon Reviews](https://github.com/JoaoBrasOliveira/portfolio/tree/main/sentiment_analysis)
@@ -46,4 +48,8 @@ Tags: `NLP`, `Sentiment analysis`, `Customer Reviews`, `Transformers`.
   <a href="https://github.com/JoaoBrasOliveira/portfolio/tree/main/sentiment_analysis">
     <img src="images/mahdi-bafande-qgJ1rt7TeeY-unsplash.jpg" alt="Amazon Reviews Sentiment Analysis" width="400" height="300" />
   </a>
+  <br>
+  <sub>Image Credit: Photo by <a href="https://unsplash.com/@mahdibafande">Mahdi Bafande</a> on Unsplash</a></sub>
 </div>
+
+
