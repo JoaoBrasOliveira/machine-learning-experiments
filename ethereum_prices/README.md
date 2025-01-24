@@ -1,28 +1,22 @@
 # Forecasting the prices of Ethereum (ETH)
 ## Project Overview
 
-**Introduction:** This project utilizes machine learning, deep learning, and Large Language Models (LLMs) to 
+**Introduction:** This project utilized a plethora of models to establish comparrisons between them for the Ethereum price prediction task.
 
-**Objective:** The goal is to accurately predict the future prices of the cryptocurrency Ethereum (ETH).
+**Objective:** The goal was to to obtain the most accurate forecasts possible for the daily Ethereum values by exploring a range of forecasting techniques, including classical statistical methods such as ARIMA (AutoRegressive Integrated Moving Average) methods, deep learning models such as recurrent neural networks (RNN) and long-short term memory (LSTM) networks, as well as Facebook Prophet.
 
 ## Dataset Description
 
-**Source:** The dataset depicts the price of the cryptocurrency Ethereum on a daily basis, has Coinbase as source is public and was taken from the Federal Reserve Bank of Saint Louis (FRED) available at the following link: https://fred.stlouisfed.org/series/CBBTCUSD.
+**Source:** The dataset used has Coinbase as source, is public, and was taken from the Federal Reserve Bank of Saint Louis (FRED). It is available at the following link: [https://fred.stlouisfed.org/series/CBETHUSD].
 
-**Structure:** Each dataset entry contains details such as Central Index Key (CIK), filing year, company name, and a categorical indicator of fraud.
-
-## Data Preprocessing
-
-Preprocessing steps involve text cleaning, tokenization, and transforming data into machine-readable formats, ensuring balanced and fair model training.
+**Structure:** The dataset contained the date and the daily price of the cryptocurrency Ethereum (as of 5 PM PST).
 
 ## Model Implementation
 
-The project encompasses a variety of models, including Logistic Regression, XGBoost, BERT and FinBERT, selected for their NLP capabilities and potential in financial statement fraud detection.
+The project encompassed a variety of models, including ARIMA, SARIMA, SARIMAX, Facebook Prophet, LSTM and GRU.
 
 ## To Reproduce
 
 **Codebase:** Complete code for data extraction, preprocessing, model training, and evaluation is available in this repository.
 
-**Environment:** A `requirements.txt` file is provided for setting up a consistent environment.
-
-**Documentation:** Each script is documented with clear instructions in the `README.md`, guiding through environment setup, script execution, and result interpretation.
+**Documentation:** The notebook is documented with very clear instructions, guiding the main script executions, and result interpretations.
