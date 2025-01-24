@@ -5,7 +5,7 @@
 
 **Objective:** The goal was to to obtain the most accurate forecasts possible for the daily Ethereum values by exploring a range of forecasting techniques, including classical statistical methods such as ARIMA (AutoRegressive Integrated Moving Average) methods, deep learning models such as recurrent neural networks (RNN) and long-short term memory (LSTM) networks, as well as Facebook Prophet.
 
-### Resources
+## Resources
 <div align="center">
   <p><strong>Click the image below to access the full report on Time-Series Analysis</strong></p>
   <a href="./TimeSeries_Ethereum_JoaoBrasOliveira.pdf">
