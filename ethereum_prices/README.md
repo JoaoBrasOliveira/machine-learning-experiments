@@ -11,10 +11,6 @@
 
 **Structure:** The dataset contained the date and the daily price of the cryptocurrency Ethereum (as of 5 PM PST).
 
-## Model Implementation
-
-The project encompassed a variety of models, including ARIMA, SARIMA, SARIMAX, Facebook Prophet, LSTM and GRU.
-
 ## To Reproduce
 
 **Codebase:** Complete code for data extraction, preprocessing, model training, and evaluation is available in this repository.
