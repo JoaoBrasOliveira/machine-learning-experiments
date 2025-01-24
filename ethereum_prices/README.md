@@ -5,6 +5,15 @@
 
 **Objective:** The goal was to to obtain the most accurate forecasts possible for the daily Ethereum values by exploring a range of forecasting techniques, including classical statistical methods such as ARIMA (AutoRegressive Integrated Moving Average) methods, deep learning models such as recurrent neural networks (RNN) and long-short term memory (LSTM) networks, as well as Facebook Prophet.
 
+### Resources
+<div align="center">
+
+| ![Time Series](./images/TimeSeries.png)
+|:---:|:---:|:---:|
+| [**Time-Series Analysis**](./TimeSeries_Ethereum_JoaoBrasOliveira.pdf) 
+
+</div>
+
 ## Dataset Description
 
 **Source:** The dataset used has Coinbase as source, is public, and was taken from the Federal Reserve Bank of Saint Louis (FRED). It is available at the following link: [https://fred.stlouisfed.org/series/CBETHUSD].
