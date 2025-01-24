@@ -36,7 +36,7 @@ As part of the data used is proprietary it is not possible to share the datasets
 
 **Documentation:** The thesis report provides very clear instructions on the steps followed and the code can guide along the main operations executed.
 
-# Acknowledgements
+## Acknowledgements
 
 I would like to thank my supervisors for their guidance as "_There is no favorable wind for the sailor who doesn’t know where to go_" - Seneca:
 
