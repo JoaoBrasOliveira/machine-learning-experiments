@@ -17,7 +17,9 @@ All the projects are open-source, and as such are available under the MIT Licens
 Tags: `Large Language Models`, `Fraud detection`, `Financial statements`, `Securities and Exchange Comission`.
 
 <div align="center">
-  <img src="images/Picture2.png" alt="Ethereum Price Prediction" width="400" height="300" />
+  <a href="https://github.com/JoaoBrasOliveira/portfolio/tree/main/masters_thesis">
+    <img src="images/Picture2.png" alt="Master’s Thesis" width="400" height="300" />
+  </a>
 </div>
 
 ### 2. [Forecasting the Prices of Ethereum (ETH)](https://github.com/JoaoBrasOliveira/portfolio/tree/main/ethereum_prices)
@@ -28,7 +30,9 @@ Techniques used include ARIMA, Prophet, and LSTM and GRU neural networks.
 Tags: `Deep Learning`, `Forecasting`, `Ethereum`, `Time-series`.
 
 <div align="center">
-  <img src="images/zoltan-tasi-uNXmhzcQjxg-unsplash.jpg" alt="Ethereum Price Prediction" width="400" height="300" />
+  <a href="https://github.com/JoaoBrasOliveira/portfolio/tree/main/ethereum_prices">
+    <img src="images/zoltan-tasi-uNXmhzcQjxg-unsplash.jpg" alt="Ethereum Price Prediction" width="400" height="300" />
+  </a>
 </div>
 
 ### 3. [Sentiment Analysis of Amazon Reviews](https://github.com/JoaoBrasOliveira/portfolio/tree/main/sentiment_analysis)
@@ -39,5 +43,7 @@ Tools used: NLTK, Scikit-learn.
 Tags: `NLP`, `Sentiment analysis`, `Customer Reviews`, `Transformers`.
 
 <div align="center">
-  <img src="images/mahdi-bafande-qgJ1rt7TeeY-unsplash.jpg" alt="Amazon Reviews Sentiment Analysis" width="400" height="300" />
+  <a href="https://github.com/JoaoBrasOliveira/portfolio/tree/main/sentiment_analysis">
+    <img src="images/mahdi-bafande-qgJ1rt7TeeY-unsplash.jpg" alt="Amazon Reviews Sentiment Analysis" width="400" height="300" />
+  </a>
 </div>
