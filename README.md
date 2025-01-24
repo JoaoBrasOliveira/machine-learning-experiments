@@ -76,7 +76,7 @@ Tags: `NLP`, `Sentiment analysis`, `Customer Reviews`, `Transformers`.
 
 <div align="center">
   <a href="https://github.com/JoaoBrasOliveira/portfolio/tree/main/chessbot">
-    <img src="images/chess.jpg" alt="Chess playing bot" width="400" height="300" />
+    <img src="images/chess.jpeg" alt="Chess playing bot" width="400" height="300" />
   </a>
   <br>
   <sub>Image Credit: Photo by <a href="https://www.chess.com/article/view/how-chess-games-can-end-8-ways-explained">Chess.com</a></a></sub>
