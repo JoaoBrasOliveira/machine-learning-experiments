@@ -7,11 +7,8 @@
 
 ### Resources
 <div align="center">
-
-| ![Time Series](./images/TimeSeries.png)
-|:---:|:---:|:---:|
-| [**Time-Series Analysis**](./TimeSeries_Ethereum_JoaoBrasOliveira.pdf) 
-
+  <img src="./images/TimeSeries.png" alt="Time Series" width="600" />
+  <p><a href="./TimeSeries_Ethereum_JoaoBrasOliveira.pdf"><strong>Time-Series Analysis</strong></a></p>
 </div>
 
 ## Dataset Description
