@@ -1,8 +1,9 @@
 # João's Portfolio
 
-Welcome to my GitHub portfolio! I’m João, an aspiring Data Scientist with a background in Accounting.
+Welcome to my GitHub portfolio! I’m João, a Data Scientist with a background in Accounting.
 
-In here, you’ll find some of the projects and analyses I’ve worked on, including my master’s thesis about fraud detection. All the projects are open-source, and as such are available under the MIT License.
+In here, you’ll find some of the private projects and experiments I’ve worked on, including my master’s thesis about financial statement fraud (FSF) detection.
+All the projects are open-source, and as such are available under the MIT License.
 
 ## Skills and Technologies
 - **Languages**: Python, R, SQL
