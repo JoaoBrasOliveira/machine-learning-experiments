@@ -2,8 +2,8 @@
 
 Welcome to my GitHub portfolio! I’m João, a Data Scientist with a background in Accounting.
 
-In here, you’ll find some of the private projects and experiments I’ve worked on, including my master’s thesis about financial statement fraud (FSF) detection.
-All the projects are open-source, and as such are available under the MIT License.
+In here, you’ll find some of the private projects and experiments I’ve worked on, including my master’s thesis!
+Most projects are fully open-source, and as such are available under the MIT License.
 
 ## Skills and Technologies
 - **Languages**: Python, R, SQL
@@ -52,4 +52,32 @@ Tags: `NLP`, `Sentiment analysis`, `Customer Reviews`, `Transformers`.
   <sub>Image Credit: Photo by <a href="https://unsplash.com/@mahdibafande">Mahdi Bafande</a> on Unsplash</a></sub>
 </div>
 
+### 4. [Pokémon Trading Card Game Pocket (TCGP) - An Analysis of Greed](https://github.com/JoaoBrasOliveira/portfolio/tree/main/pokemontcgp_greed)
+Applied natural language processing to analyze sentiment in reviews posted within Amazon´s marketplace using machine learning models.
 
+Tools used: NLTK, Scikit-learn.
+
+Tags: `NLP`, `Sentiment analysis`, `Customer Reviews`, `Transformers`.
+
+<div align="center">
+  <a href="https://github.com/JoaoBrasOliveira/portfolio/tree/main/pokemontcgp_greed">
+    <img src="images/Pokemon.png" alt="Pokémon Trading Card Game Pocket (TCGP)" width="400" height="300" />
+  </a>
+  <br>
+  <sub>Image Credit: Photo by <a href="https://commons.wikimedia.org/wiki/User:Cmglee">Cmglee</a> on Wikipedia</a></sub>
+</div>
+
+### 5. [Chess playing bot](https://github.com/JoaoBrasOliveira/portfolio/tree/main/chessbot)
+Applied natural language processing to analyze sentiment in reviews posted within Amazon´s marketplace using machine learning models.
+
+Tools used: NLTK, Scikit-learn.
+
+Tags: `NLP`, `Sentiment analysis`, `Customer Reviews`, `Transformers`.
+
+<div align="center">
+  <a href="https://github.com/JoaoBrasOliveira/portfolio/tree/main/chessbot">
+    <img src="images/chess.jpg" alt="Chess playing bot" width="400" height="300" />
+  </a>
+  <br>
+  <sub>Image Credit: Photo by <a href="https://www.chess.com/article/view/how-chess-games-can-end-8-ways-explained">Chess.com</a></a></sub>
+</div>
