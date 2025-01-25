@@ -52,12 +52,8 @@ Tags: `NLP`, `Sentiment analysis`, `Customer Reviews`, `Transformers`.
   <sub>Image Credit: Photo by <a href="https://unsplash.com/@mahdibafande">Mahdi Bafande</a> on Unsplash</a></sub>
 </div>
 
-### 4. [Pokémon Trading Card Game Pocket (TCGP) - An Analysis of Greed](https://github.com/JoaoBrasOliveira/portfolio/tree/main/pokemontcgp_greed)
-Applied natural language processing to analyze sentiment in reviews posted within Amazon´s marketplace using machine learning models.
-
-Tools used: NLTK, Scikit-learn.
-
-Tags: `NLP`, `Sentiment analysis`, `Customer Reviews`, `Transformers`.
+### 4. [Pokémon Trading Card Game Pocket (TCGP) - An Analysis of Greed - Ongoing](https://github.com/JoaoBrasOliveira/portfolio/tree/main/pokemontcgp_greed)
+Used Monte Carlo simulations to analyze the coupon collector's problem that is attaining every card within Pokémon TCGP.
 
 <div align="center">
   <a href="https://github.com/JoaoBrasOliveira/portfolio/tree/main/pokemontcgp_greed">
@@ -67,12 +63,8 @@ Tags: `NLP`, `Sentiment analysis`, `Customer Reviews`, `Transformers`.
   <sub>Image Credit: Photo by <a href="https://commons.wikimedia.org/wiki/User:Cmglee">Cmglee</a> on Wikipedia</a></sub>
 </div>
 
-### 5. [Chess playing bot](https://github.com/JoaoBrasOliveira/portfolio/tree/main/chessbot)
+### 5. [Chess playing bot - Ongoing](https://github.com/JoaoBrasOliveira/portfolio/tree/main/chessbot)
 Applied natural language processing to analyze sentiment in reviews posted within Amazon´s marketplace using machine learning models.
-
-Tools used: NLTK, Scikit-learn.
-
-Tags: `NLP`, `Sentiment analysis`, `Customer Reviews`, `Transformers`.
 
 <div align="center">
   <a href="https://github.com/JoaoBrasOliveira/portfolio/tree/main/chessbot">
