@@ -64,7 +64,7 @@ Used Monte Carlo simulations to analyze the coupon collector's problem that is a
 </div>
 
 ### 5. [Chess playing bot - Ongoing](https://github.com/JoaoBrasOliveira/portfolio/tree/main/chessbot)
-Applied natural language processing to analyze sentiment in reviews posted within Amazon´s marketplace using machine learning models.
+Created a bot that attempts to play like a real chess Grandmaster with certain memory constraints.
 
 <div align="center">
   <a href="https://github.com/JoaoBrasOliveira/portfolio/tree/main/chessbot">
