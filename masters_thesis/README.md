@@ -11,7 +11,7 @@
 ## Resources
 <div align="center">
   <p><strong>Click the image below to access the full text of the Thesis on the University´s repository webiste </strong></p>
-  <a href="[./MasterThesis_JoaoBrasOliveira.pdf](https://repositorio.iscte-iul.pt/handle/10071/33578)">
+  <a href="https://repositorio.iscte-iul.pt/handle/10071/33578">
     <img src="../images/MasterThesis.png" alt="Time Series" width="600" />
   </a>
 </div>
