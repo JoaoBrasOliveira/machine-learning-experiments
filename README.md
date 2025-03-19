@@ -12,7 +12,7 @@ Most projects are fully open-source, and as such are available under the MIT Lic
 
 ## Projects
 
-### 1. [Master’s Thesis: "Decoding the numbers and language behind financial statement fraud"](https://github.com/JoaoBrasOliveira/portfolio/tree/main/masters_thesis)
+### 1. [Decoding the numbers and language behind financial statement fraud](https://github.com/JoaoBrasOliveira/portfolio/tree/main/masters_thesis)
 
 Tags: `Large Language Models`, `Fraud detection`, `Financial statements`, `Securities and Exchange Comission`.
 
