@@ -1,4 +1,7 @@
 # Forecasting the prices of Ethereum (ETH)
+
+Tags: `Deep Learning`, `Forecasting`, `Ethereum`, `Time-series`.
+
 ## Project Overview
 
 **Introduction:** This project utilized a plethora of models to establish comparrisons between them for the Ethereum price prediction task.
