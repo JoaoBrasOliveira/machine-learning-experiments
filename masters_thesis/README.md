@@ -1,4 +1,7 @@
 # Master’s Thesis: "_Decoding the numbers and language behind financial statement fraud_"
+
+Tags: `Large Language Models`, `Fraud detection`, `Financial statements`, `Securities and Exchange Comission`.
+
 ## Project Overview
 
 **Introduction:** Financial statement fraud is, a form of intentional misstatements or omissions of amounts or disclosures in financial statements designed to deceive financial statement users. External stakeholders often struggle to grasp the company's true financial situation until it is already too late, and the losses are practically irrecoverable. This highlights the need for fraud detection tools that can identify patterns and expedite the detection process, reducing costs and improving efficiency by helping direct investigations.
